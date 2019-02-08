@@ -1,7 +1,7 @@
 Arduino Walkie Talkie
 ===
 
-![Diagram](https://imgur.com/v0IwQbF.png)
+![Diagram](https://imgur.com/Dqz9S6Z.png)
 
 ---
 
