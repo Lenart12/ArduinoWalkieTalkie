@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PIN_JUMPER)(type KiCad)(uri ${KIPRJMOD}/PIN_JUMPER.pretty)(options "")(descr ""))
+)
