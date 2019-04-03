@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name arduinowalkietalkie-rescue)(type Legacy)(uri ${KIPRJMOD}/arduinowalkietalkie-rescue.lib)(options "")(descr ""))
+)
