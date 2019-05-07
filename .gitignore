@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/visinometer/Debug
+/visinometer/.vs/visinometer/v16
+/visinometer/__vm
